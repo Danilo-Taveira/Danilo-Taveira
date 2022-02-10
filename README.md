@@ -1,5 +1,5 @@
 ##  ~ Olá, me chamo Danilo Taveira!
-<img align="right" alt="Coding" width="400" src="bannergithub.png">
+<img align="right" alt="Coding" width="100%" src="bannergithub.png">
 <div align="center">
   <a href="https://github.com/Danilo-Taveira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Danilo-Taveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
