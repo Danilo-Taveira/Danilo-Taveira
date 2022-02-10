@@ -1,5 +1,5 @@
 ##  ~ Olá, me chamo Danilo Taveira!
-<img align="right" alt="Coding" width="400" src="https://uploaddeimagens.com.br/imagens/g8UFbz4">
+<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo Danilo">
 <div align="center">
   <a href="https://github.com/Danilo-Taveira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Danilo-Taveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
