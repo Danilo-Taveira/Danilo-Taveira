@@ -1,4 +1,4 @@
-##  ~ Olá, me chamo Danilo Taveira!
+##  # Olá, me chamo Danilo Taveira!
 <div align="center">
   <img align="right" alt="Coding" width="70%" src="bannergithub.png"><br>
   <a href="https://github.com/Danilo-Taveira">
