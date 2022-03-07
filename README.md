@@ -1,6 +1,7 @@
 ## ✎ Hello World! I'm Danilo Taveira!
+</p align="center">
+<img src="PinturaEscrita.png" />
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="PinturaEscrita.png"><br>
   <a href="https://github.com/Danilo-Taveira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Danilo-Taveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Taveira&layout=compact&langs_count=7&theme=dark"/>
