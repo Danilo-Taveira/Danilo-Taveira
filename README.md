@@ -1,4 +1,4 @@
-<h1> ## ✎ Hello World! I'm Danilo Taveira! </h1>
+<h1> ✎ Hello World! I'm Danilo Taveira! </h1>
 </p align="center">
 <img src="CapaDanilo.gif" />
 <div align="center">
