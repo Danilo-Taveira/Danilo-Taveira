@@ -7,7 +7,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Taveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <br>
- <p>• Languages: </p>
+ <h1>• Languages: </h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
