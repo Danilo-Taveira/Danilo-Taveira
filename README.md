@@ -1,11 +1,6 @@
 <h1>👋🏻 Hi, I'm Danilo Taveira! </h1>
 </p align="center">
 <img src="CapaDanilo.gif" />
-<div align="center">
-  <a href="https://github.com/Danilo-Taveira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Danilo-Taveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Taveira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
  <h3>• Languages and Tools: </h3>
 <div style="display: inline_block">
   <img align="center" alt="Danilo-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
