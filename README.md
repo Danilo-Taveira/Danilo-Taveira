@@ -1,6 +1,6 @@
 <h1>👋🏻 Hi, I'm Danilo Taveira! </h1>
 
-<p>Technology enthusiast and Software Developer who is currently completing his higher education degree at the Instituto Federal Fluminense. </p>
+<p>Technology enthusiast and Computer Engineer who is currently completing his higher education degree at the Instituto Federal Fluminense. </p>
 
 <p>My passion for technology drives me to constantly seek innovative solutions and improve my skills in Developing Mobile Applications and Desktop Systems</p>
 
