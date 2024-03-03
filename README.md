@@ -1,8 +1,8 @@
 <h1>👋🏻 Hi, I'm Danilo Taveira! </h1>
 
-<h4>Technology enthusiast and Software Developer who is currently completing his higher education degree at the Instituto Federal Fluminense.
+<p>Technology enthusiast and Software Developer who is currently completing his higher education degree at the Instituto Federal Fluminense. </p>
 
-My passion for technology drives me to constantly seek innovative solutions and improve my skills in Developing Mobile Applications and Desktop Systems</h4>
+<p>My passion for technology drives me to constantly seek innovative solutions and improve my skills in Developing Mobile Applications and Desktop Systems</p>
 
 </p align="center">
 <img src="CapaDanilo.gif" />
@@ -22,7 +22,7 @@ My passion for technology drives me to constantly seek innovative solutions and 
  
 <h3>• Conect with me: </h3>
 
-<h4>Feel free to get in touch or connect to discuss potential collaborations, opportunities or just to exchange ideas about the world of technology:</h4>
+<p>Feel free to get in touch or connect to discuss potential collaborations, opportunities or just to exchange ideas about the world of technology:</p>
 
 <div> 
   <a href="https://instagram.com/danilo.navega" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
