@@ -1,4 +1,4 @@
-<h1> Hi, I'm Danilo Taveira! </h1>
+<h1>👋🏻 Hi, I'm Danilo Taveira! </h1>
 </p align="center">
 <img src="CapaDanilo.gif" />
 <div align="center">
@@ -8,6 +8,8 @@
 </div>
  <h3>• Languages and Tools: </h3>
 <div style="display: inline_block">
+  <img align="center" alt="Danilo-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Danilo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Danilo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Danilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
